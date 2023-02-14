@@ -70,7 +70,3 @@ int main(void) {
     printf("%p\n", p);
 }
 
-// void myfree(void *p); {
-
-// };
-
